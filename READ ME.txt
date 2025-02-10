@@ -1,0 +1,33 @@
+Title: Home - Green Spaces Gardening
+
+Description: The homepage of Green Spaces Gardening welcomes everyone interested in gardening. It shows the joys of gardening and helps people learn how to start their own gardens.
+
+What's on the Homepage:
+
+    Header:
+        The top of the page has a logo and a menu. The menu has links to pages like About, Tutorials, Gallery, Community, and Contact.
+        The header changes to fit screens of mobile phones and tablets, making it easy to use on any device.
+
+    Main Banner:
+        A big picture with the words "Grow Your Own Oasis" invites visitors to learn about gardening.
+        There is a short description about the purpose of the website and a button that says "Read More" for more information.
+
+    Interactive Sections:
+        The page has special sections with moving parts that make it fun to learn about gardening. These include guides for starting a garden and a place for garden lovers to talk to each other.
+
+    Gallery and Stories:
+        Pictures of gardens made by members of the website show what can be done. There are also stories from people who have used the site to start their own gardens.
+
+    Educational Sections:
+        There are parts of the page that teach about different kinds of gardening, like city gardening and how to make a garden sustainable. They give useful tips and encourage visitors to try gardening themselves.
+
+    Footer:
+        The bottom of the page has links to social media, important pages like Terms of Service and Privacy Policy, and repeats the logo for consistency.
+
+Design Features:
+
+    The website looks clean and modern. It's made to be easy to read and use.
+    It works well on computers, phones, and tablets.
+    It uses important gardening words that help people find the site when they search online.
+
+Purpose: This homepage is made to get people excited about gardening and to provide them with the tools and support to start gardening, no matter if they're beginners or have some experience.
